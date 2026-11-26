@@ -163,8 +163,8 @@ The advanced carver identifies files by byte content, never trusting extensions 
 
 ### Option 2: Run from Python Source
 git clone https://github.com/scitboss/data_recovery_pro.git
-cd data_recovery_pro
-python data_recovery_pro.py
+# cd data_recovery_pro
+# python data_recovery_pro.py
 ```
 
 
