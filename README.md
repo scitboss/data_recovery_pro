@@ -13,11 +13,11 @@
 ---
 
 ### 👨‍💻 DEVELOPER BRANDING & OFFICIAL PORTALS
-**DEVELOPED BY: SHAWN CHOWDHURY**
+**DEVELOPED BY: SCIT BOSS**
 
 🌐 **[WWW.SOFTKEYBAZAR.COM](http://WWW.SOFTKEYBAZAR.COM)** &nbsp;|&nbsp; 🌐 **[WWW.SCITBOSS.COM](http://WWW.SCITBOSS.COM)** &nbsp;|&nbsp; 🌐 **[WWW.CRACKYBAY.COM](http://WWW.CRACKYBAY.COM)**
 
-*© 2026 SHAWN CHOWDHURY. All Rights Reserved.*
+*© 2026 SCITBOSS. All Rights Reserved.*
 
 ---
 
