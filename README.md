@@ -190,7 +190,7 @@ Switch seamlessly between **English (US)** and **বাংলা (Bengali)** via
 ```
 ================================================================================
                     ULTIMATE DATA RECOVERY PRO ENTERPRISE
-                           DEVELOPED BY: SHAWN CHOWDHURY
+                           DEVELOPED BY: SCIT BOSS
 ================================================================================
 ```
 
@@ -200,7 +200,7 @@ Switch seamlessly between **English (US)** and **বাংলা (Bengali)** via
 | 🌐 **SCIT Boss** | [WWW.SCITBOSS.COM](http://WWW.SCITBOSS.COM) | IT Enterprise Solutions & Security |
 | 🌐 **CrackyBay** | [WWW.CRACKYBAY.COM](http://WWW.CRACKYBAY.COM) | Software Development & Digital Media |
 
-**Copyright © 2026 SHAWN CHOWDHURY. All Rights Reserved.**  
+**Copyright © 2026 SCIT BOSS. All Rights Reserved.**  
 *Certified 64-Bit Windows Data Recovery Application.*
 
 </div>
